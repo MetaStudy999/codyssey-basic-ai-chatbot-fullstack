@@ -11,3 +11,7 @@
 - [시각자료 (적용)](05-assets/README.md)
 
 아직 PPTX/PDF를 제작하지 않았습니다.
+
+## 능동 학습 보조 자료 계획
+
+[glossary·concept-maps·code-tracing·coding-labs·debugging·question-bank·review](06-learning-activities/README.md). 4종 발표·학습 패키지 기존 목표 유지.
